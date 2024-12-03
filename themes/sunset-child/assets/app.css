@@ -2,6 +2,12 @@ body {
     background-color: #E9D3C0 !important;
 }
 .logged-in h1 {
-    color: #705022;
+    color: #8b3103;
     text-transform: uppercase;
+}
+.logged-in footer {
+    background-color: #eee9e0;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
 }
