@@ -1,3 +1,7 @@
 body {
     background-color: #E9D3C0 !important;
 }
+.logged-in h1 {
+    color: #705022;
+    text-transform: uppercase;
+}
