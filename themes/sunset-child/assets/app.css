@@ -11,3 +11,7 @@ body {
     padding: 20px;
     font-size: 14px;
 }
+.logged-in header {
+    background-color: #eee9e0;
+    
+}
