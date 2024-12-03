@@ -33,3 +33,8 @@ body {
 .logged-in a:hover {
     color: #009d94; /* Darker blue on hover */
 }
+.logged-in ul li:hover {
+    background-color: #cbf1f5; /* Change background on hover */
+    border-radius: 5px;
+}
+
