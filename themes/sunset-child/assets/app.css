@@ -12,6 +12,9 @@ body {
     font-size: 14px;
 }
 .logged-in header {
-    background-color: #eee9e0;
-    
+    background-color: #eee9e0;    
+}
+.logged-in img {
+    border: 3px solid #8b3103;
+    border-radius: 10px;
 }
